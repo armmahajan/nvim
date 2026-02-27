@@ -1,4 +1,7 @@
 return {
+  -- Auto-detect indent settings from file contents
+  { "tpope/vim-sleuth" },
+
   -- Auto-close brackets, quotes
   {
     "windwp/nvim-autopairs",
